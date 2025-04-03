@@ -1,0 +1,6 @@
+# PDR Navigation Results
+# Step Count: 0
+# Total Distance: 0.00 m
+#
+# Format: Step, North (m), East (m), StepLength (m), Orientation (rad)
+0, 40.0, 0.0, 0.0, 0.0
